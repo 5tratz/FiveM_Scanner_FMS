@@ -1,6 +1,6 @@
 # FiveM Scanner (FMS)
 
-<img src="https://i.ibb.co/Q772zc1W/Screenshot-2.jpg" alt="">
+<img src="https://i.ibb.co/4Zc3jC80/Screenshot-1.jpg" alt="">
 
 Advanced security tool for detecting potential backdoors and malicious code in FiveM server files.
 
